@@ -1,0 +1,11 @@
+:git init > cria o repositório local 
+
+:git remote add origin "link do github" > adicionar o link do github
+
+:git add . > adicionar todos os arquivos da pasta 
+
+:git commit -m "o que esta sendo feito" >inclusão do arquivo
+
+:git status > ver o status do arquivo 
+
+:git push origin main > empurrar o arquivo para o git hub
