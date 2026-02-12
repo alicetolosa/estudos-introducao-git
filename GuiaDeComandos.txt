@@ -13,3 +13,5 @@
 *Realizei a inlcusão de uma nova branch: projetoTeste
 
 :git checkout –b projetoTeste(nome da branch)
+
+* refazer o processo de inlusão, commit e push
