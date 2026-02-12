@@ -9,3 +9,7 @@
 :git status > ver o status do arquivo 
 
 :git push origin main > empurrar o arquivo para o git hub
+
+*Realizei a inlcusão de uma nova branch: projetoTeste
+
+:git checkout –b projetoTeste(nome da branch)
